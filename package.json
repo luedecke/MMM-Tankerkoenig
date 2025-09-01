@@ -7,12 +7,15 @@
     "license": "MIT",
     "homepage": "https://github.com/wiesty/MMM-Tankerkoenig",
     "keywords": [
-      "magic mirror",
-      "gas",
-      "germany"
+        "magic mirror",
+        "gas",
+        "germany"
     ],
     "repository": {
-      "type": "git",
-      "url": "https://github.com/wiesty/MMM-Tankerkoenig"
+        "type": "git",
+        "url": "https://github.com/wiesty/MMM-Tankerkoenig"
+    },
+    "dependencies": {
+        "node-fetch": "^2.7.0"
     }
-  }
+}
