@@ -1,15 +1,26 @@
 {
     "name": "mmm-tankerkoenig",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "description": "MagicMirror² Module to display the local gas prices in Germany.",
     "main": "MMM-Tankerkoenig.js",
     "author": "wiesty",
-    "license": "MIT",
+    "contributors": ["TobTra89"],
+    "license": "CC BY-NC 4.0",
     "homepage": "https://github.com/wiesty/MMM-Tankerkoenig",
     "keywords": [
+<<<<<<< HEAD
         "magic mirror",
         "gas",
         "germany"
+=======
+      "magic mirror",
+      "gas",
+      "refuel",
+      "germany",
+      "benzin",
+      "diesel",
+      "tanken"
+>>>>>>> upstream/main
     ],
     "repository": {
         "type": "git",
@@ -18,4 +29,8 @@
     "dependencies": {
         "node-fetch": "^2.7.0"
     }
+<<<<<<< HEAD
 }
+=======
+  }
+>>>>>>> upstream/main
