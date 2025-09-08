@@ -8,19 +8,9 @@
     "license": "CC BY-NC 4.0",
     "homepage": "https://github.com/wiesty/MMM-Tankerkoenig",
     "keywords": [
-<<<<<<< HEAD
         "magic mirror",
         "gas",
         "germany"
-=======
-      "magic mirror",
-      "gas",
-      "refuel",
-      "germany",
-      "benzin",
-      "diesel",
-      "tanken"
->>>>>>> upstream/main
     ],
     "repository": {
         "type": "git",
@@ -29,8 +19,4 @@
     "dependencies": {
         "node-fetch": "^2.7.0"
     }
-<<<<<<< HEAD
 }
-=======
-  }
->>>>>>> upstream/main
